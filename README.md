@@ -29,7 +29,7 @@
 
 همچنین می‌توانید نسخهٔ زنده را از اینجا مشاهده کنید:
 
-🌐 **[نسخهٔ آنلاین +lifeBOSPro](https://bagherjoy0660.github.io/lifebos-pro-v7.6.2/)**
+🌐 **[نسخهٔ آنلاین +lifeBOSPro](https://bagherjoy0660.github.io/lifebos-pro-v7.0/)**
 
 ---
 
