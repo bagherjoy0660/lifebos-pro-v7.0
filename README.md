@@ -25,11 +25,11 @@
 
 تمامی قابلیت‌های جدید و بهبودیافته در نسخهٔ اصلی پروژه پیاده‌سازی شده‌اند. برای دسترسی به آخرین نسخه، لطفاً به مخزن زیر مراجعه کنید:
 
-🔗 **[+lifeBOSPro – نسخهٔ اصلی](https://github.com/bagherjoy0660/lifebos-pro-v7.7)**
+🔗 **[+lifeBOSPro – نسخهٔ اصلی](https://github.com/bagherjoy0660/lifebos-pro-v7.6.2)**
 
 همچنین می‌توانید نسخهٔ زنده را از اینجا مشاهده کنید:
 
-🌐 **[نسخهٔ آنلاین +lifeBOSPro](https://bagherjoy0660.github.io/lifebos-pro-v7.7/)**
+🌐 **[نسخهٔ آنلاین +lifeBOSPro](https://bagherjoy0660.github.io/lifebos-pro-v7.6.2/)**
 
 ---
 
